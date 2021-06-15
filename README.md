@@ -1,10 +1,11 @@
 # Water-Extraction-MDFN-Multi-scaled-Deep-Neural-Netwrk
 
 MDFN: is a deep learning- based model trained to segment the multispectral sentinel-2 imagery. Using publicly available satellite imagery data we train a convolutional neural net to predict water occurrences in satellite images. MDFN achieved outmost performance for the prediction of water bodies from sentinel-2 satellite imagery datat.
-![fo_1](https://user-images.githubusercontent.com/32522237/122047924-4fd9e780-cdfe-11eb-828b-b0e2a7d4ae65.JPG) (Sentinel-2 False Color COmpossite Image)
-![fs_1](https://user-images.githubusercontent.com/32522237/122047927-510b1480-cdfe-11eb-9b5b-b9220ba93a76.JPG)  (Output of the proposed model)
+![fo_1 Sentinel-2 False Color COmpossite Image](https://user-images.githubusercontent.com/32522237/122047924-4fd9e780-cdfe-11eb-828b-b0e2a7d4ae65.JPG) 
+()
+![fs_1 Output of the proposed model](https://user-images.githubusercontent.com/32522237/122047927-510b1480-cdfe-11eb-9b5b-b9220ba93a76.JPG)  ()
 
-The above pictures are the part of out dataset.
+The above pictures are the part of our dataset.
 
 # Dependencies 
 TensorFlow (tested on TensorFlow 1.12)
