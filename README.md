@@ -7,6 +7,9 @@ MDIT: is a deep learning- based model trained to segment the multispectral senti
 
 The above pictures are the part of our dataset.
 
+#For Source code Contact
+<khyasir2@gmail.com>
+
 # Dependencies 
 TensorFlow (tested on TensorFlow 1.12)\\
 Numpy\\
